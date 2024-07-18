@@ -1,4 +1,4 @@
-<h1 align="center"> Snitap - Patins</h1>
+<h1 align="center"> Snitap</h1>
 
 <p align="center">
 Conceptual landing page for rollerblades shop
@@ -8,14 +8,14 @@ Conceptual landing page for rollerblades shop
   <img alt="preview landing page" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tech stack
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was built using the following technologies:
 
 - HTML
 - CSS
 
-## 💻 Projeto
+## 💻 Project
 
 This landing page has been built in order to learn and practice CSS concepts such as animations, grid layout and flexbox.
 
