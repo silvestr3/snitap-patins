@@ -137,9 +137,13 @@ section.hero {
     }
 }
 
-@media (orientation: portrait) {
+@media (width < 60em) {
     section.hero {
         flex-direction: column-reverse;
+
+        & h1 {
+            text-align: center;
+        }
 
         & .buttons {
             flex-direction: column;

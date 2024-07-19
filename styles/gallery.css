@@ -108,6 +108,13 @@ section.gallery {
     }
 }
 
+@media (width < 60em) {
+    section.gallery .content {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
 @keyframes image-appear {
     from {
         opacity: 0;
